@@ -10,7 +10,7 @@ Aplikasi Android untuk deteksi denominasi Rupiah secara offline, dirancang untuk
 - TTS offline untuk feedback aksesibel.
 
 ## Instalasi
-1. Clone repositori: `git clone https://github.com/yourusername/rupiah-detection-app`
+1. Clone repositori: 'https://github.com/Handaeme/RupiahVision`
 2. Buka di Android Studio.
 3. Sinkronkan dependensi di `build.gradle`.
 4. Jalankan di perangkat Android (min. Android 10, 4GB RAM).
